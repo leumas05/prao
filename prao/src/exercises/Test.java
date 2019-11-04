@@ -30,7 +30,7 @@ public class Test {
 
         dataObject = new DataObject();
         dataObject.count = 13;
-        dataObject.code = "b";
+        dataObject.code = "grönsaker";
         dataObjects[4] = dataObject;
 
         HashMap map = new HashMap();
